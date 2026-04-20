@@ -1,0 +1,11 @@
+mising file 
+/product-detail.php?id=strawberry-250g
+/checkout.php
+
+
+fix login and singup
+
+product photo add
+youtube instagram facebook link add
+
+
