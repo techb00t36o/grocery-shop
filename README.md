@@ -52,7 +52,7 @@ A modern, mobile-friendly grocery shopping website built with PHP, featuring an 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/grocery-shop.git
+   git clone https://github.com/techb00t36o/grocery-shop.git
    cd grocery-shop
    ```
 
